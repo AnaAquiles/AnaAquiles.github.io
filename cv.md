@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sci-side
+title: Sci-Side
 permalink: /cv/
 ---
 
