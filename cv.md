@@ -6,6 +6,15 @@ permalink: /cv/
 
 📄 [Download my CV (PDF)](/assets/CV-aquiles2026-1.pdf)
 
+**Find me elsewhere:**
+[GitHub](https://github.com/AnaAquiles) ·
+[LinkedIn](https://linkedin.com/in/aaquiles) · I don't use it a lot (shame of me)
+[Google Scholar](https://scholar.google.com/citations?user=Mis-1eAAAAAJ&hl=en) ·
+[ORCID](https://orcid.org/0000-0001-8475-0308) ·
+[ResearchGate](https://www.researchgate.net/profile/Ana-Aquiles?ev=hdr_xprf) ·
+[Twitter/X](https://twitter.com/mexaquiless) ·
+[GoodReads](goodreads.com/aaquiles) 🧐
+
 ## Education
 
 **PhD in Biomedical Sciences** — **Universidad Nacional Autónoma de México (UNAM), Neurobiology Institute, Juriquilla, Querétaro, Mexico** — 2019–2023
