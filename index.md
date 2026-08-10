@@ -5,7 +5,7 @@ title: Home
 
 ## Hello there,
 
-Beyond the titles a CV likes to collect, this is where the rest of me lives, the part that first fell for science not for the credentials, but for the wonder of it. The questions that keep me up. The strange, stubborn curiosity that still, after everything, is the fuel.
+Beyond the titles a CV likes to collect, this is where the rest of me lives, the part that first fell for science not for the credentials, but for the wonder of it. The questions that keep me up. The strange, stubborn curiosity that still, after everything, is the fuel!
 
 Here you'll find both halves of that: the academic — 📚 [Publications](/papers/), projects, the record of what I've built and studied (📄 [CV](/cv/)) — and the wandering one, where I write essays on science, philosophy, and whatever else refuses to stay in its lane, comming soon: [Blog](/blog/). Written whenever time allows itself to be caught.
 
