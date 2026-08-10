@@ -78,6 +78,8 @@ permalink: /cv/
 
 * Aquiles, A., Fiordelisio, T., Luna-Munguia, H., & Concha, L. (2023). *Altered functional connectivity and network excitability in a model of cortical dysplasia.* Scientific Reports, 13(1), 12335.
 
+* Aquiles, A., Mollard, P. (2025). *Uncovering baseline pituitary states*. Early Career Perspective.Under revision in Journal of neuroendocrinology.
+
 * Villaseñor, P. J., Cortés-Servín, D., Pérez-Moriel, A., Aquiles, A., Luna-Munguía, H., Ramirez-Manzanares, A., et al. (2023). *Multi-tensor diffusion abnormalities of gray matter in an animal model of cortical dysplasia.* Frontiers in Neurology, 14, 1124282.
 
 ## Scientific Communication
