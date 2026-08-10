@@ -1,6 +1,6 @@
 ---
 layout: page
-title: left-outparts
+title: Left-outparts
 permalink: /blog/
 ---
 
