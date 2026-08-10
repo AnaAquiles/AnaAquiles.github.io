@@ -3,6 +3,8 @@ layout: page
 title: Left-out parts
 permalink: /blog/
 ---
+**Find me elsewhere:**
+
 
 What a restless mind gathers at odd hours _on research_, on tools, on ideas that refuse to sleep, set down here, and now, shared with you.
 COMING SOON !!
