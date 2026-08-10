@@ -4,7 +4,8 @@ title: Blog
 permalink: /blog/
 ---
 
-Occasional long-form essays on research, tools, and ideas — in the spirit of a Medium digest, just self-hosted.
+What a restless mind gathers at odd hours _on research_, on tools, on ideas that refuse to sleep, set down here, and now, shared with you.
+COMMING SOON !
 
 <ul style="list-style:none; padding-left:0;" markdown="1">
 {% for post in site.posts %}
