@@ -1,0 +1,31 @@
+title: "Your Name"
+description: "Researcher · Academic · Writer"
+author: "Your Name"
+email: your.email@example.com
+baseurl: "" # leave empty for a User/Org site (username.github.io); set to "/repo-name" for a Project site
+url: "https://yourusername.github.io" # change to your GitHub Pages URL
+
+theme: minima
+minima:
+  skin: dark
+  date_format: "%b %-d, %Y"
+
+# Nav bar pages, in order
+header_pages:
+  - cv.md
+  - papers.md
+  - blog.md
+  - contact.md
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title/
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
