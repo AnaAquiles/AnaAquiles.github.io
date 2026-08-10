@@ -14,7 +14,7 @@ minima:
 header_pages:
   - cv.md
   - papers.md
-  - blog.md
+  - Left-outparts.md
   - contact.md
 
 plugins:
