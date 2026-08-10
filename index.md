@@ -3,9 +3,16 @@ layout: home
 title: Home
 ---
 
-## Hi, 
+## Hi, I'm Ana
 
+Beyond the titles a CV likes to collect, this is where the rest of me lives, the part that first fell for science not for the credentials, but for the wonder of it. The questions that keep me up. The strange, stubborn curiosity that still, after everything, is the fuel.
 
+Here you'll find both halves of that: the academic — papers, projects, the record of what I've built and studied — and the wandering one, where I write essays on science, philosophy, and whatever else refuses to stay in its lane. Written whenever time allows itself to be caught.
+
+Have a look around. And if something here sparks a thought worth sharing, don't hesitate to reach out.
+
+*Cheers,*
+*Ana*
 
 - 📄 [CV](/cv/)
 - 📚 [Publications](/papers/)
@@ -13,12 +20,12 @@ title: Home
 - ✉️ [Contact](/contact/)
 
 **Find me elsewhere:**
-[GitHub](https://github.com/yourusername) ·
-[LinkedIn](https://linkedin.com/in/yourusername) ·
-[Google Scholar](https://scholar.google.com/citations?user=XXXXXXX) ·
-[ORCID](https://orcid.org/0000-0000-0000-0000) ·
-[ResearchGate](https://www.researchgate.net/profile/yourprofile) ·
-[Twitter/X](https://twitter.com/yourhandle)
+[GitHub](https://github.com/AnaAquiles) ·
+[LinkedIn](https://linkedin.com/in/aaquiles) · I don't use it a lot (shame of me)
+[Google Scholar](https://scholar.google.com/citations?user=Mis-1eAAAAAJ&hl=en) ·
+[ORCID](https://orcid.org/0000-0001-8475-0308) ·
+[ResearchGate](https://www.researchgate.net/profile/Ana-Aquiles?ev=hdr_xprf) ·
+[Twitter/X](https://twitter.com/mexaquiless)
 
 ---
 
