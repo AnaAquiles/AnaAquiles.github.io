@@ -3,7 +3,7 @@ layout: home
 title: Home
 ---
 
-## Hi, I'm Ana
+## Hello there,
 
 Beyond the titles a CV likes to collect, this is where the rest of me lives, the part that first fell for science not for the credentials, but for the wonder of it. The questions that keep me up. The strange, stubborn curiosity that still, after everything, is the fuel.
 
