@@ -3,10 +3,9 @@ layout: home
 title: Home
 ---
 
-## Hi, I'm Your Name 👋
+## Hi, 
 
-I'm a [your field, e.g. researcher in Machine Learning / PhD candidate in Biology / etc.] at [Institution].
-My work focuses on [1–2 lines on your research interests].
+
 
 - 📄 [CV](/cv/)
 - 📚 [Publications](/papers/)
