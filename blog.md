@@ -15,4 +15,4 @@ COMMING SOON !!
 {% if post.excerpt %}<br>{{ post.excerpt | strip_html | truncatewords: 30 }}{% endif %}
 </li>
 {% endfor %}
-</ul>
+</ul> 
