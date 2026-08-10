@@ -4,8 +4,6 @@ title: Sci-Side
 permalink: /cv/
 ---
 
-📄 [Download my CV (PDF)](/assets/CV-aquiles2026-1.pdf)
-
 **Find me elsewhere:**
 [GitHub](https://github.com/AnaAquiles) ·
 [LinkedIn](https://linkedin.com/in/aaquiles) · I don't use it a lot (shame of me)
@@ -55,7 +53,7 @@ permalink: /cv/
 * **Programming:** Python
 * **Computational methods:** Computational neuroscience, machine learning, deep learning, time-series analysis, large dataset management
 * **Neuroscience:** Neurobiology, calcium imaging in vitro, miniscope recordings, non-human EEG datasets, MRI analysis
-* **Experimental techniques:** Animal surgery, stereotaxic surgery, immunofluorescence
+* **Experimental techniques:** Animal surgery, stereotaxic surgery, immunofluorescence, viral tracing
 * **Data & imaging:** Image analysis, experimental design
 * **Scientific:** Scientific writing, scientific illustration, science communication, open science
 * **Spoken languages:** Spanish (native), English (proficient), French (proficient), Portuguese (intermediate)
