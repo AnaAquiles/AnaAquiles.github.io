@@ -20,7 +20,8 @@ Have a look around. And if something here sparks a thought worth sharing, don't 
 [Google Scholar](https://scholar.google.com/citations?user=Mis-1eAAAAAJ&hl=en) ·
 [ORCID](https://orcid.org/0000-0001-8475-0308) ·
 [ResearchGate](https://www.researchgate.net/profile/Ana-Aquiles?ev=hdr_xprf) ·
-[Twitter/X](https://twitter.com/mexaquiless)
+[Twitter/X](https://twitter.com/mexaquiless) ·
+[GoodReads](goodreads.com/aaquiles)
 
 ---
 
