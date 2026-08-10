@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home
+title: ✔️ Yes, I am a human 
 ---
 
 ## Hello there,
