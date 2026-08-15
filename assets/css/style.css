@@ -221,8 +221,8 @@ a {
 }
 
 .index-list__thumb {
-  width: 144px;
-  height: 144px;
+  width: 160px;
+  height: 100px;
   aspect-ratio: 1 / 1;
   object-fit: cover;
   border-radius: 4px;
