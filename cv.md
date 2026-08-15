@@ -75,19 +75,6 @@ permalink: /cv/
 * Supervised **Paulina Villaseñor de la Barrera**, MSc Student, Institute of Neurobiology, Querétaro — 2021–2023
 * Supervised **David Cortés-Servin**, MSc Student, Institute of Neurobiology, Querétaro — 2020–2021
 
-## Publications
-
-* Aquiles, A., Pinedo, L., Regalado, M., Luna-Munguia, H., Peña-Ortega, F., Concha, L., & Rossi-Pool, R. (2026). *Assessing the degree of cortical dislamination through electrical pattern analysis.* iScience, 29(6).
-
-* Aquiles, A., Aparicio Arias, J., Lafont, C., Hodson, D., Santiago-Andres, Y., Mollard, P., & Fiordelisio, T. (2026). *Population geometry reveals directed coupling and transient bistability in spontaneous pituitary secretion.* bioRxiv. Under revision in Nature Communications Physics.
-
-* Santiago-Andres, Y., Aquiles, A., Taniguchi-Ponciano, K., Salame, L., Guinto, G., Mercado, M., & Fiordelisio, T. (2024). *Association between Intracellular Calcium Signaling and Tumor Recurrence in Human Non-Functioning Pituitary Adenomas.* International Journal of Molecular Sciences, 25(7), 3968.
-
-* Aquiles, A., Fiordelisio, T., Luna-Munguia, H., & Concha, L. (2023). *Altered functional connectivity and network excitability in a model of cortical dysplasia.* Scientific Reports, 13(1), 12335.
-
-* Aquiles, A., Mollard, P. (2025). *Uncovering baseline pituitary states*. Early Career Perspective.Under revision in Journal of neuroendocrinology.
-
-* Villaseñor, P. J., Cortés-Servín, D., Pérez-Moriel, A., Aquiles, A., Luna-Munguía, H., Ramirez-Manzanares, A., et al. (2023). *Multi-tensor diffusion abnormalities of gray matter in an animal model of cortical dysplasia.* Frontiers in Neurology, 14, 1124282.
 
 ## Scientific Communication
 
