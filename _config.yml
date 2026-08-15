@@ -22,11 +22,9 @@ permalink: /blog/:year/:month/:day/:title/
 
 # Comments — get these values from https://giscus.app after enabling
 # "Discussions" in your repo settings (Settings > General > Features > Discussions)
-giscus:
-  repo: "AnaAquiles/AnaAquiles.github.io"
-  repo_id: "REPLACE_WITH_REPO_ID"
-  category: "General"
-  category_id: "REPLACE_WITH_CATEGORY_ID"
+  
+cusdis:
+  app_id: "2024b277-d4de-4917-88df-3f1296404b6a"
 
 # Highlighting — get these from a free Firebase project at https://console.firebase.google.com
 # (Build a Firestore Database in test/production mode, then Project settings > your web app > SDK config)
