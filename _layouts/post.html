@@ -20,6 +20,12 @@ layout: default
     <button id="clap-button" aria-label="Clap for this post">👏</button>
     <span id="clap-count">0</span>
   </div>
+  
+  <div class="share-widget">
+    <span class="eyebrow">Share</span>
+    <div class="share-widget__buttons" id="share-buttons"></div>
+  </div>
+
 
   <footer class="post-footer">
     <a class="text-link" href="{{ '/blog/' | relative_url }}">← Back to Journal</a>
@@ -36,3 +42,4 @@ layout: default
 <script src="https://www.gstatic.com/firebasejs/9.23.0/firebase-firestore-compat.js"></script>
 <script src="{{ '/assets/js/highlight.js' | relative_url }}"></script>
 <script src="{{ '/assets/js/claps.js' | relative_url }}"></script>
+<script src="{{ '/assets/js/share.js' | relative_url }}"></script>

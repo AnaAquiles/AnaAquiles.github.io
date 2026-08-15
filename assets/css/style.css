@@ -301,11 +301,6 @@ a {
 }
 .post-content { font-size: 1.05rem; }
 .post-content h2 { margin-top: 1.8em; }
-.post-footer {
-  margin-top: 3em;
-  padding-top: 1.5em;
-  border-top: 1px solid var(--color-line);
-}
 .post-content img {
   max-width: 100%;
   height: auto;
@@ -320,6 +315,11 @@ a {
   color: var(--color-muted);
   margin-top: -1.2em;
   margin-bottom: 1.8em;
+}
+.post-footer {
+  margin-top: 3em;
+  padding-top: 1.5em;
+  border-top: 1px solid var(--color-line);
 }
 
 /* ============================================
@@ -368,7 +368,7 @@ a {
 @media (max-width: 640px) {
   .site-nav { flex-direction: column; align-items: flex-start; gap: 14px; }
   .site-nav__links { flex-wrap: wrap; gap: 14px 20px; }
-  .index-list__item a { flex-direction: column; gap: 4px; }
+  .index-list__thumb { width: 64px; height: 64px; }
   .site-footer__row { flex-direction: column; gap: 32px; }
 }
 
@@ -403,6 +403,68 @@ mark.heat-mark {
   padding-top: 2em;
   border-top: 1px solid var(--color-line);
 }
+
+.clap-widget {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin: 2.5em 0;
+}
+
+#clap-button {
+  font-size: 1.5rem;
+  line-height: 1;
+  background: var(--color-accent-soft);
+  border: 1px solid var(--color-line);
+  border-radius: 999px;
+  width: 52px;
+  height: 52px;
+  cursor: pointer;
+  transition: transform 0.15s ease, background 0.15s ease;
+}
+#clap-button:hover { background: #d9e3da; }
+#clap-button.is-clapped { transform: scale(1.15); }
+#clap-button.is-maxed { opacity: 0.6; cursor: default; }
+
+#clap-count {
+  font-family: var(--font-mono);
+  font-size: 0.9rem;
+  color: var(--color-muted);
+}
+
+.share-widget {
+  margin: 1.5em 0 2.5em;
+}
+
+.share-widget__buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 0.3em;
+}
+
+.share-btn {
+  font-family: var(--font-mono);
+  font-size: 0.78rem;
+  letter-spacing: 0.03em;
+  color: var(--color-ink);
+  background: transparent;
+  border: 1px solid var(--color-line);
+  border-radius: 999px;
+  padding: 7px 16px;
+  cursor: pointer;
+  transition: background 0.15s ease, border-color 0.15s ease;
+}
+.share-btn:hover {
+  background: var(--color-accent-soft);
+  border-color: var(--color-accent);
+}
+.share-btn--native {
+  background: var(--color-ink);
+  color: var(--color-bg);
+  border-color: var(--color-ink);
+}
+.share-btn--native:hover { opacity: 0.85; }
 
 /* ============================================
    ACCESSIBILITY
