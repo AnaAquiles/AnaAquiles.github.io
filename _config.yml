@@ -1,14 +1,9 @@
 title: "Ana Aquiles"
-description: "Researcher · Academic · Writer(art-side)"
-author: "aaquiles"
+description: "Researcher · Academic · Writer (art-side)"
+author: "Ana Aquiles"
 email: anaaquiles@ciencias.unam.mx
-baseurl: "" # leave empty for a User/Org site (username.github.io); set to "/repo-name" for a Project site
-url: "https://AnaAquiles.github.io" # change to your GitHub Pages URL
-
-theme: minima
-minima:
-  skin: dark
-  date_format: "%b %-d, %Y"
+baseurl: ""
+url: "https://anaaquiles.github.io"
 
 # Nav bar pages, in order
 header_pages:
@@ -24,6 +19,24 @@ plugins:
 
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title/
+
+# Comments — get these values from https://giscus.app after enabling
+# "Discussions" in your repo settings (Settings > General > Features > Discussions)
+giscus:
+  repo: "AnaAquiles/AnaAquiles.github.io"
+  repo_id: "REPLACE_WITH_REPO_ID"
+  category: "General"
+  category_id: "REPLACE_WITH_CATEGORY_ID"
+
+# Highlighting — get these from a free Firebase project at https://console.firebase.google.com
+# (Build a Firestore Database in test/production mode, then Project settings > your web app > SDK config)
+firebase:
+  apiKey: "REPLACE_ME"
+  authDomain: "REPLACE_ME"
+  projectId: "REPLACE_ME"
+  storageBucket: "REPLACE_ME"
+  messagingSenderId: "REPLACE_ME"
+  appId: "REPLACE_ME"
 
 exclude:
   - README.md

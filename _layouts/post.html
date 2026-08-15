@@ -1,0 +1,32 @@
+---
+layout: default
+---
+<article class="post">
+
+  <header class="post-header">
+    <span class="eyebrow">{{ page.date | date: "%b %-d, %Y" }}{% if page.tags %} · {{ page.tags | join: ", " }}{% endif %}</span>
+    <h1 class="post-title">{{ page.title }}</h1>
+  </header>
+
+  {% if page.header_image %}
+  <img src="{{ page.header_image | relative_url }}" alt="{{ page.title }}" class="post-header-image">
+  {% endif %}
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+  <footer class="post-footer">
+    <a class="text-link" href="{{ '/blog/' | relative_url }}">← Back to Journal</a>
+  </footer>
+
+  {% include comments.html %}
+
+</article>
+
+<script>
+  window.FIREBASE_CONFIG = {{ site.firebase | jsonify }};
+</script>
+<script src="https://www.gstatic.com/firebasejs/9.23.0/firebase-app-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/9.23.0/firebase-firestore-compat.js"></script>
+<script src="{{ '/assets/js/highlight.js' | relative_url }}"></script>
