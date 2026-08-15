@@ -284,6 +284,21 @@ a {
   padding-top: 1.5em;
   border-top: 1px solid var(--color-line);
 }
+.post-content img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1.8em 0;
+}
+.post-content figcaption,
+.post-content img + em {
+  display: block;
+  font-family: var(--font-mono);
+  font-size: 0.78rem;
+  color: var(--color-muted);
+  margin-top: -1.2em;
+  margin-bottom: 1.8em;
+}
 
 /* ============================================
    FOOTER
