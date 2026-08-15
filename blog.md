@@ -1,20 +1,27 @@
 ---
 layout: page
-title: Left-out parts
+title: Left-out parts 
 permalink: /blog/
 ---
 **Find me elsewhere:**
 [GoodReads](https://goodreads.com/aaquiles) 🧐 
 
 What a restless mind gathers at odd hours _on research_, on tools, on ideas that refuse to sleep, set down here, and now, shared with you.
-COMING SOON !!
 
-<ul style="list-style:none; padding-left:0;" markdown="1">
+
+<ul class="index-list index-list--thumbs">
 {% for post in site.posts %}
-<li style="margin-bottom: 1.2em;" markdown="1">
-**[{{ post.title }}]({{ post.url | relative_url }})**
-<br><small>{{ post.date | date: "%B %-d, %Y" }}{% if post.tags %} · {{ post.tags | join: ", " }}{% endif %}</small>
-{% if post.excerpt %}<br>{{ post.excerpt | strip_html | truncatewords: 30 }}{% endif %}
+<li class="index-list__item">
+<a href="{{ post.url | relative_url }}">
+{% if post.header_image %}
+<img class="index-list__thumb" src="{{ post.header_image | relative_url }}" alt="">
+{% endif %}
+<span class="index-list__body">
+<span class="index-list__date">{{ post.date | date: "%b %-d, %Y" }}</span>
+<span class="index-list__title">{{ post.title }}</span>
+{% if post.excerpt %}<span class="index-list__excerpt">{{ post.excerpt | strip_html | truncatewords: 24 }}</span>{% endif %}
+</span>
+</a>
 </li>
 {% endfor %}
-</ul> 
+</ul>
