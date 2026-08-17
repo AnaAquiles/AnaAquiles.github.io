@@ -31,7 +31,7 @@ This advance-publication study looked at the "resilience" of the oocyte in the f
 
 I kept wondering about the left-out parts of this research — most of it evaluated on Caucasian populations, mainly from European or US databases, as pretty much always happens in human research. I just wondered if there was some other, more inclusive and realistic research cohort on women's fertility, for example: do Hispanic, African, Asian, and European women share the same age rates of fertilization? Guess what?
 
-Yes, we do. We're pretty much equal, and that's another part of the oocyte's biological nature that we share as humans. Unfortunately, data on men from different parts of the world doesn't hold the same way. Spoiler: swimmers are more susceptible to environment too. Bad news: a database on Chinese men, for example, suggests semen is more susceptible to living in higher-temperature zones; good news: other cohorts from India and Turkey suggest sperm fertility doesn't decline until closer to 50.
+Yes, we do. We're pretty much equal, and that's another part of the oocyte's biological nature that we share as humans. Unfortunately, data on men from different parts of the world doesn't hold the same way. *Spoiler:* swimmers are more susceptible to environment too. **Bad news:** a database on Chinese men, for example, suggests sperm become less fertil when in higher-temperature zones; **good news:** other cohorts from India and Turkey suggest sperm fertility doesn't decline until closer to 50.
 
 Nevertheless, it's important to consider that fitness could help some individuals become outliers, as I said from the beginning, in science we're always talking about probabilities.
 
