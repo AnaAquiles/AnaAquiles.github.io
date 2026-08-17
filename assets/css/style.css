@@ -182,8 +182,8 @@ a {
 }
 
 .hero-photo img {
-  width: 320px;
-  height: 100%;
+  width: 380px;
+  height: 480px;
   object-fit: cover;
   border-radius: 4px;
   filter: saturate(0.92);
