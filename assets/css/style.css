@@ -191,6 +191,16 @@ a {
   filter: saturate(0.92);
 }
 
+.hero-photo__caption {
+  display: block;
+  margin-top: 10px;
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  letter-spacing: 0.02em;
+  color: var(--color-muted);
+  max-width: 380px;
+}
+
 @media (max-width: 760px) {
   .hero-grid {
     grid-template-columns: 1fr;

@@ -8,8 +8,9 @@ layout: default
     </div>
     {% if page.photo %}
     <div class="hero-photo">
-      <img src="{{ page.photo | relative_url }}" alt="{{ site.title }}">
-    </div>
+    <img src="{{ page.photo | relative_url }}" alt="{{ site.title }}">
+    {% if page.photo_caption %}
+    <span class="hero-photo__caption">{{ page.photo_caption }}</span>
     {% endif %}
   </div>
 

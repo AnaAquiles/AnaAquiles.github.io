@@ -2,6 +2,7 @@
 layout: home
 title: ✔️ Yes, I am human 
 photo: /assets/img/ana-portrait.jpeg
+photo_caption: "Drafting the blog idea, in El Gordito Cantina, Madrid. Winter 2025."
 ---
 
 ## Hello there,
