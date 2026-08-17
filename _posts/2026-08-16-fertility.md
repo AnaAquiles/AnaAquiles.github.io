@@ -3,7 +3,7 @@ layout: post
 title: "So swimmers age faster ?"
 date: 2026-08-17
 tags: [Health, Science, Culture]
-header_image: /assets/img/
+header_image: /assets/img/Swimmer.png
 ---
 
 > **Disclaimer:** no medals, no lap times, no chlorine. This is about a very different kind of swimmer — one with a much higher stake in the race.
@@ -12,7 +12,7 @@ I caught, from a quick informational video, a claim from a new scientific study:
  
 Also, a personal story made me wonder more and more about the fallacies, the verisimilitude, and the mistakes surrounding this topic.
  
-> **A kind reminder:** in scientific research we deals in probabilities — enough to suggest theories, but never enough to be 100% sure we're talking about a general phenomenon. Scientists are obligated to suggest conclusions, but be critical too when a doctor of medicine suggests something to you, because some people talk as if they held the only truth. Being critical is what saved me from almost believing I might have fertility issues.
+> **A kind reminder:** in scientific research we deals in probabilities, enough to suggest theories, but never enough to be 100% sure we're talking about a general phenomenon. Scientists are obligated to suggest conclusions, but be critical too when a doctor of medicine suggests something to you, because some people talk as if they held the only truth. Being critical is what saved me from almost believing I might have fertility issues.
  
 Diving into the ins and outs of what freezing and preserving oocytes actually involves, I realized the process is more invasive than it sounds, and even so, it still doesn't guarantee 100% success in getting pregnant. Looking at the numbers: if I freeze my oocytes at 29, I'd have a 40–50%, maybe up to 58%, chance of successful fertilization if I use them before turning 35, and that percentage drops the longer I wait, falling to around 26% if I use them at 40.
  
@@ -29,15 +29,15 @@ This advance-publication study looked at the "resilience" of the oocyte in the f
 
 ## What About the Left-Out Parts?
 
-I kept wondering about the left-out parts of this research — most of it evaluated on Caucasian populations, mainly from European or US databases, as pretty much always happens in human research. I just wondered if there was some other, more inclusive and realistic research cohort on women's fertility — for example: do Hispanic, African, Asian, and European women share the same age rates of fertilization? Guess what?
+I kept wondering about the left-out parts of this research — most of it evaluated on Caucasian populations, mainly from European or US databases, as pretty much always happens in human research. I just wondered if there was some other, more inclusive and realistic research cohort on women's fertility, for example: do Hispanic, African, Asian, and European women share the same age rates of fertilization? Guess what?
 
 Yes, we do. We're pretty much equal, and that's another part of the oocyte's biological nature that we share as humans. Unfortunately, data on men from different parts of the world doesn't hold the same way. Spoiler: swimmers are more susceptible to environment too. Bad news: a database on Chinese men, for example, suggests semen is more susceptible to living in higher-temperature zones; good news: other cohorts from India and Turkey suggest sperm fertility doesn't decline until closer to 50.
 
-Nevertheless, it's important to consider that fitness could help some individuals become outliers — as I said from the beginning, in science we're always talking about probabilities.
+Nevertheless, it's important to consider that fitness could help some individuals become outliers, as I said from the beginning, in science we're always talking about probabilities.
 
 One thing really holds true for both swimmers and eggs: having a healthy lifestyle and regularly monitoring your own data, with a professional who explains the whys behind things, can make you more aware of your situation and help you make better decisions accordingly.
 
-So — did any of this surprise you the way it surprised me? This blog exists because two conversations with friends turned into a rabbit hole neither of us expected. If you've got a thought, a story, or a "wait, actually—", the comments are open.
+#### *So, did any of this surprise you the way it surprised me? This blog exists because two conversations with friends turned into a rabbit hole neither of us expected. If you've got a thought, a story, or a "wait, actually ... ", the comments are open.*
 
 *Thanks for reading.*
 
