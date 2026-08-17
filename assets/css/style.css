@@ -179,6 +179,8 @@ a {
 
 .hero-photo {
   display: flex;
+  align-items: flex-start;
+  margin-top: 60px;
 }
 
 .hero-photo img {
