@@ -174,12 +174,16 @@ a {
   display: grid;
   grid-template-columns: 1fr auto;
   gap: clamp(32px, 6vw, 72px);
-  align-items: start;
+  align-items: stretch;
+}
+
+.hero-photo {
+  display: flex;
 }
 
 .hero-photo img {
-  width: 220px;
-  height: 280px;
+  width: 320px;
+  height: 100%;
   object-fit: cover;
   border-radius: 4px;
   filter: saturate(0.92);
@@ -193,8 +197,8 @@ a {
     order: -1;
   }
   .hero-photo img {
-    width: 140px;
-    height: 178px;
+    width: 100%;
+    height: 220px;
   }
 }
 
