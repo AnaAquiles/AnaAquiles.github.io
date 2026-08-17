@@ -2,8 +2,15 @@
 layout: default
 ---
 <div class="home">
-  <div class="hero">
-    {{ content }}
+  <div class="hero-grid">
+    <div class="hero">
+      {{ content }}
+    </div>
+    {% if page.photo %}
+    <div class="hero-photo">
+      <img src="{{ page.photo | relative_url }}" alt="{{ site.title }}">
+    </div>
+    {% endif %}
   </div>
 
   {% if site.posts.size > 0 %}

@@ -1,6 +1,7 @@
 ---
 layout: home
 title: ✔️ Yes, I am human 
+photo: /assets/img/ana-portrait.jpg
 ---
 
 ## Hello there,
