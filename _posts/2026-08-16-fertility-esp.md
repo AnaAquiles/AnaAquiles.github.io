@@ -35,6 +35,6 @@ Desafortunadamente, los datos de los hombres de distintas partes del mundo no se
 
 Sin embargo, es importante considerar que estar en forma podría ayudar a que algunas personas sean la excepción. Como dije desde el principio, en ciencia siempre estamos hablando de probabilidades, tanto para los nadadores como para los óvulos: llevar un estilo de vida saludable y monitorear con regularidad tus propios datos, con un profesional que te explique los porqués detrás de las cosas, puede hacerte más consciente de tu situación y ayudarte a tomar mejores decisiones.
 
-#### ¿Alguna de estas cosas te sorprendió tanto como a mí? Este blog nació de dos conversaciones con amigas que se convirtieron en una madriguera de conejo que ninguna esperaba. Si tienes un comentario, una historia, o un "espera, en realidad ...", los comentarios están abiertos.
+#### ¿Alguna de estas cosas te sorprendió tanto como a mí? Este blog nació de dos conversaciones con amigas que se convirtieron en mi imperio romano durante semanas. Si tienes un comentario, una historia, o un "espera, en realidad ...", los comentarios están abiertos. Te leo :) 
 
 *Gracias por leer.*

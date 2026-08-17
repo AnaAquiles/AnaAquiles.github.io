@@ -37,7 +37,7 @@ Nevertheless, it's important to consider that fitness could help some individual
 
 One thing really holds true for both swimmers and eggs: having a healthy lifestyle and regularly monitoring your own data, with a professional who explains the whys behind things, can make you more aware of your situation and help you make better decisions accordingly.
 
-#### *So, did any of this surprise you the way it surprised me? This blog exists because two conversations with friends turned into a rabbit hole neither of us expected. If you've got a thought, a story, or a "wait, actually ... ", the comments are open.*
+#### *So, did any of this surprise you the way it surprised me? This blog exists because conversations with friends turned into a rabbit hole neither of us expected. If you've got a thought, a story, or a "wait, actually ... ", the comments are open.*
 
 *Thanks for reading.*
 
