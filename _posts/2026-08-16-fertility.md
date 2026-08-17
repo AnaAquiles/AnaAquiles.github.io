@@ -2,6 +2,8 @@
 layout: post
 title: "So swimmers age faster ?"
 date: 2026-08-17
+lang: en
+translation_key: swimmers-age
 tags: [Health, Science, Culture]
 header_image: /assets/img/Swimmer.png
 ---
