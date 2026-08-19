@@ -29,15 +29,13 @@ This [Sci-Adv-publication](https://www.science.org/doi/10.1126/sciadv.adw4954) s
 
 ## What About the Left-Out Parts?
 
-I kept wondering about the left-out parts of this research — most of it evaluated on Caucasian populations, mainly from European or US databases, as pretty much always happens in human research. I just wondered if there was some other, more inclusive and realistic research cohort on women's fertility, for example: do Hispanic, African, Asian, and European women share the same age rates of fertilization? Guess what?
-
-Yes, we do. We're pretty much equal, and that's another part of the oocyte's biological nature that we share as humans. Unfortunately, data on men from different parts of the world doesn't hold the same way. *Spoiler:* swimmers are more susceptible to environment too. **Bad news:** a database on Chinese men, for example, suggests sperm become less fertil in higher-temperature zones; **good news:** other cohorts from India and Turkey suggest sperm fertility doesn't decline until closer to 50.
+I kept wondering about the left-out parts of this research — most of it evaluated on Caucasian populations, mainly from European or US databases, *as pretty much always happens in human research*. I just wondered if there was some other, more inclusive and realistic research cohort on women's fertility, for example: do Hispanic, African, Asian, and European women share the same age rates of fertilization? Guess what? ... Yes, we do. We're pretty much equal, and that's another part of the oocyte's biological nature that we share as humans. Unfortunately, data on men from different parts of the world doesn't hold the same way. *Spoiler:* swimmers are more susceptible to environment too. **Bad news:** a database on Chinese men, for example, suggests sperm become less fertil in higher-temperature zones; **good news:** other cohorts from India and Turkey suggest sperm fertility doesn't decline until closer to 50.
 
 Nevertheless, it's important to consider that fitness could help some individuals become outliers, as I said from the beginning, in science we're always talking about probabilities.
 
 One thing really holds true for both swimmers and eggs: having a healthy lifestyle and regularly monitoring your own data, with a professional who explains the whys behind things, can make you more aware of your situation and help you make better decisions accordingly.
 
-#### *So, did any of this surprise you the way it surprised me? This blog exists because conversations with friends turned into a rabbit hole neither of us expected. If you've got a thought, a story, or a "wait, actually ... ", the comments are open.*
+#### *So, did any of this surprise you the way it surprised me? If you've got a thought, a story, or a "wait, actually ... ", the comments are open.* This post idea exists, because conversations with friends turned into a rabbit hole neither of us expected, So I am happy to share it with more people. 
 
 *Thanks for reading.*
 
