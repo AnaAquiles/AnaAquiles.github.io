@@ -14,10 +14,11 @@ permalink: /cv/
 
 ## CV files
 
+**Research / PhD CV** — academic format, publications, grants  & mentoring  
+[⬇ Download PDF](../assets/cv-academic.pdf)
+
+
 **Data Scientist CV** — industry-focused, highlights ML projects, tools & impact  
 [⬇ Download PDF](../assets/cv-datascientist.pdf)
-
-**Research / PhD CV** — academic format, publications, conferences & teaching  
-[⬇ Download PDF](../assets/cv-academic.pdf)
 
 
