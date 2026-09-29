@@ -8,6 +8,11 @@ tags: [Art, Science, Culture]
 header_image: /assets/img/.png
 ---
 
+>**... nous verrons l'imagination construire des « murs » avec
+des ombres impalpables, se réconforter avec des illusions de protec-
+tion — ou, inversement trembler derrière des murs épais, douter des
+plus solides remparts. - Gaston Bachelar, La poétique de l'espace.**
+
 Llevo un tiempo pensando en las similitudes entre los científicos y los artístas. Por supuesto que con esta idea no planeo minimizar ninguna de las partes como actividad creativa y profesional, pero sí quiero exponer lo que desde mi punto de vista, nos une como "expositores". 
 Mi bagaje sobre el quéhacer artístico viene desde una butaca amateur, en la que satisfago la curiosidad por conocer más el proceso creativo a través de libros, discusiones, podcast y también exposiciones. Pero lo que me ha dejado más certera en los siguientes puntos convergentes, han sido todas las charlas y discusiones sobre la vida y la experiencia de un artista: cómo vive, cómo sufre, cómo se acerca con curiosidad a los que lo miran, o quizás también como se aleja con temor a ser visto por sus primeras creaciones, y al final del día cómo intenta no perder la cordura mientras sigue extendiendo una parte de sí al público.
 Escuchando recientemente un episodio de [arte en diálogo](https://youtu.be/hUAiq46JvdA?si=pCwiYueTrP8rry-i) sobre *la magia en el arte*, escuchaba también las viscicitudes que atraviesa una artista plástico, sobre el hecho de mantenerse en un estado creativo, investigativo, *por qué no* y profundo, inevitablemente eso atrae soledad y aislamiento. La artista mencionaba entonces que a nadie te avisa de lo intenso que es crear, "la práctica del arte y el trabajo de estudio es difícil de sostener a nivel existencial. Es duro a nivel psíquico. Duro porque se mantiene en el límite de lo que la sociedad occidental permite, [...] te mantiene expuesto a la opinión ajena."
