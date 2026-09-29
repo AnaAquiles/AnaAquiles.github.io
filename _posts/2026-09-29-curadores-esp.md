@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Elife busca curador y el reino sin murallas"
-date: 2026-09-30
+date: 2026-09-29
 lang: es
 translation_key: sci-art
 tags: [Art, Science, Culture]
