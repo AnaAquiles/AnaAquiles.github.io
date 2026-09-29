@@ -5,7 +5,7 @@ date: 2026-09-29
 lang: es
 translation_key: sci-art
 tags: [Art, Science, Culture]
-header_image: /assets/img/.png
+header_image: /assets/img/art-sci.PNG
 ---
 >*... nous verrons l'imagination construire des « murs » avec
 des ombres impalpables, se réconforter avec des illusions de protec-
