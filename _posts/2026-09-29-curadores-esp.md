@@ -8,8 +8,7 @@ tags: [Art, Science, Culture]
 header_image: /assets/img/art-sci.png
 ---
 >*... nous verrons l'imagination construire des « murs » avec
-des ombres impalpables, se réconforter avec des illusions de protec-
-tion — ou, inversement trembler derrière des murs épais, douter des
+des ombres impalpables, se réconforter avec des illusions de protection — ou, inversement trembler derrière des murs épais, douter des
 plus solides remparts. - Gaston Bachelar, La poétique de l'espace.*
 
 ## COMING SOON
