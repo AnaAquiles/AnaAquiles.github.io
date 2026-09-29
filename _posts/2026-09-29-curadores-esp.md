@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Elife busca curador y el reino sin murallas"
-date: 2026-09-30
+date: 2026-09-29
 lang: es
 translation_key: sci-art
 tags: [Art, Science, Culture]
@@ -12,4 +12,4 @@ des ombres impalpables, se réconforter avec des illusions de protec-
 tion — ou, inversement trembler derrière des murs épais, douter des
 plus solides remparts. - Gaston Bachelar, La poétique de l'espace.*
 
-##COMING SOON
+## COMING SOON
