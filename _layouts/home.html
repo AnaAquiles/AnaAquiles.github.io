@@ -16,7 +16,8 @@ layout: default
     {% endif %}
   </div>
 
-  {% if site.posts.size > 0 %}
+  {% assign english_posts = site.posts | where_exp: "post", "post.lang != 'es'" %}
+  {% for post in english_posts limit:3 %}
   <section class="index-section">
     <span class="eyebrow">Journal — latest</span>
     <ul class="index-list">
