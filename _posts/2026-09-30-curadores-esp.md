@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Elife busca curador y el reino sin murallas"
-date: 2026-09-30
+date: 2026-09-29
 lang: es
 translation_key: sci-art
 tags: [Art, Science, Culture]
-header_image: /assets/img/.png
+header_image: /assets/img/art-sci.png
 ---
 >*... nous verrons l'imagination construire des « murs » avec
+<<<<<<< HEAD:_posts/2026-09-30-curadores-esp.md
 des ombres impalpables, se réconforter avec des illusions de protec-
 tion — ou, inversement trembler derrière des murs épais, douter des
 plus solides remparts. - Gaston Bachelar, La poétique de l'espace.*
@@ -40,3 +41,9 @@ Uno de los lados de los artístas, que reconozco que envidio es que nadie los va
 
 
 Al final del día ambas actividades tratan sobre, el pensamiento crítico
+=======
+des ombres impalpables, se réconforter avec des illusions de protection — ou, inversement trembler derrière des murs épais, douter des
+plus solides remparts. - Gaston Bachelar, La poétique de l'espace.*
+
+## COMING SOON
+>>>>>>> 501aea8e0186e85a65bdd44b4afcc9944b4d6df1:_posts/2026-09-29-curadores-esp.md
