@@ -9,7 +9,7 @@ header_image: /assets/img/art-sci.png
 ---
 >*... nous verrons l'imagination construire des « murs » avec
 des ombres impalpables, se réconforter avec des illusions de protection — ou, inversement trembler derrière des murs épais, douter des
-plus solides remparts. - Gaston Bachelar, La poétique de l'espace.*
+plus solides remparts. - **Gaston Bachelar, La poétique de l'espace**.*
 
 Llevo un tiempo pensando en las similitudes entre los científicos y los artístas. Por supuesto que con esta idea no planeo minimizar ninguna de las partes como actividad creativa y profesional, pero sí quiero exponer lo que desde mi punto de vista, nos une como "expositores". 
 
