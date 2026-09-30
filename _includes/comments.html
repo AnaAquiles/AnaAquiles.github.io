@@ -1,11 +1,11 @@
 <section class="comments-section">
   <span class="eyebrow">Comments</span>
-  <div id="cusdis_thread"
-    data-host="https://cusdis.com"
-    data-app-id="{{ site.cusdis.app_id }}"
-    data-page-id="{{ page.url }}"
-    data-page-url="{{ page.url | absolute_url }}"
-    data-page-title="{{ page.title }}">
-  </div>
-  <script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
+  <div id="remark42"></div>
+  <script>
+  var remark_config = {
+    host: 'https://remark42-production-d1b1.up.railway.app',
+    site_id: 'anablog',
+  };
+  </script>
+  <script>!function(e,n){for(var o=0;o<e.length;o++){var r=n.createElement('script'),c='.js',d=n.head||n.body;'noModule'in r?(r.type='module',c='.mjs'):r.async=!0,r.defer=!0,r.src=remark_config.host+'/web/'+e[o]+c,d.appendChild(r)}}(remark_config.components||['embed'],document);</script>
 </section>
