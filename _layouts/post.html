@@ -41,11 +41,6 @@ layout: default
     <div class="share-widget__buttons" id="share-buttons"></div>
   </div>
 
-
-  <footer class="post-footer">
-    <a class="text-link" href="{{ '/blog/' | relative_url }}">← Back to Journal</a>
-  </footer>
-
   {% include comments.html %}
 
   <div id="remark42"></div>
@@ -56,6 +51,10 @@ layout: default
   };
   </script>
   <script>!function(e,n){for(var o=0;o<e.length;o++){var r=n.createElement('script'),c='.js',d=n.head||n.body;'noModule'in r?(r.type='module',c='.mjs'):r.async=!0,r.defer=!0,r.src=remark_config.host+'/web/'+e[o]+c,d.appendChild(r)}}(remark_config.components||['embed'],document);</script>
+  
+  <footer class="post-footer">
+    <a class="text-link" href="{{ '/blog/' | relative_url }}">← Back to Journal</a>
+  </footer>
 
 </article>
 
