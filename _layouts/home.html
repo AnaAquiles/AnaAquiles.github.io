@@ -17,11 +17,11 @@ layout: default
   </div>
 
   {% assign english_posts = site.posts | where_exp: "post", "post.lang != 'es'" %}
-  {% for post in english_posts limit:3 %}
+  {% if english_posts.size > 0 %}
   <section class="index-section">
     <span class="eyebrow">Journal — latest</span>
     <ul class="index-list">
-      {% for post in site.posts limit:3 %}
+      {% for post in english_posts limit:3 %}
       <li class="index-list__item">
         <a href="{{ post.url | relative_url }}">
           <span class="index-list__date">{{ post.date | date: "%b %-d, %Y" }}</span>
