@@ -34,7 +34,7 @@ Un sistema que en el arte funciona _el diálogo, el acompañamiento_, en la cien
 
 **Por amor al arte**
 
-Mi primer viaje en la vida fue a Valparaíso, en el centro de Chile. Una ciudad muy bohémia y artistica. Por consecuencia ahí conocí a muchas artístas de todas nacionaliades y tipos de arte. 
+Mi primer viaje en la vida fue a Valparaíso, en el centro de Chile. Una ciudad muy bohémia y artistica. Por consecuencia conocí a muchos artístas de todas nacionaliades y tipos de arte. Cada uno dejó su huella e historia en mi memoria, pero relacionado con este tema, recuerdo mucho a Karla, una muralista muy talentosa que había viajado por el mundo y en ese momento se encontraba en Valparaíso, una ciudad cuyos murales resaltan en su arte urbano, para lograr avanzar en su carrera. Encontrar un mural blanco no fue sencillo para ella, 
 
 
 **Call backs y rechazos**
@@ -45,9 +45,9 @@ Mi primer viaje en la vida fue a Valparaíso, en el centro de Chile. Una ciudad 
 
 **Lo privado y lo público**
 
-Uno de los lados de los artístas, que reconozco que envidio es que nadie los va a señalar por expresar lo que ven y sienten, nadie los trataría de menos competentes o menos profesionales por expresar. En la ciencia esa es una parte que permanece escondida. La gente suele priorizar cultivar una imagen sobria y solemne, hablar con diálogos estructurados y formalizar todo . Comparto la visión de Gaston Bachelar /filósofo de la ciencia, que proponia que la ciencia también tiene que poseer emociones, y si no contiene emociones entonces no estamos comprendidno bien la realidad. 
+Uno de los lados de los artístas, que reconozco que envidio es que nadie los va a señalar por expresar lo que ven y sienten, nadie los trataría de menos competentes o menos profesionales por expresar. En la ciencia esa es una parte que permanece escondida, inexistente. La gente suele priorizar cultivar una imagen sobria y solemne, hablar con diálogos estructurados y formalizar todo . Comparto la visión de Gaston Bachelar /filósofo de la ciencia, que proponia que la ciencia también tiene que poseer emociones, y si no contiene emociones entonces no estamos comprendidno bien la realidad. 
 
 **Libertades**
 
-Al final del día ambas actividades tratan sobre, el pensamiento crítico
+Al final del día ambas direcciones, el arte y la ciencia convergen en dos cosas, desde mi mirada, _la creatividad_ y no menos importante, _el pensamiento crítico_
 
