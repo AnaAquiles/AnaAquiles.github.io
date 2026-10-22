@@ -25,12 +25,12 @@ Claudia Rodríguez cuenta en ese episodio, lo mucho que quería ser pintora, per
 Curar arte me parece una profesión bastante poética y con muchos matices. Es lo que vendría siendo, el director de una orquesta o también porqué no, el director de cualquier obra, teatro, cine. Un curador selecciona el espacio de exposición, el tema, selecciona las obras, las monta y luego como resultado de todo se obtiene una lectura coherente del producto artístico de uno o más artistas.
 Me parece que los curadores de la ciencia podrían ser las revistas científicas, que al final del día sin esas publicaciones pareciése que un científico sigue jugando con el papel y el bolígrafo, haciendo bocetos sin mostrarlos a nadie. eLife es también un journal de investigación científica, enfocado a la publicación de trabajos relacionados con medicina y ciencias de la vida como (neurociencia, microbiología, fisiología, etc.). Sin embargo, eLife hace un par de años decidió cambiar las reglas del juego del "peer review" o revisión por pares. Interviniendo de manera distina al seleccionar sus _obras_, en dónde en el marco válido o aceptado, un peer review desemboca en una aceptación o rechazo de la publicación. eLife decidió no sólo rechazar las publicaciones, si no dialogar con los científicos y mejorar la publicación en sinergía con ellos. 
 Yo veo a los curadores de arte haciendo esto, con los artístas. No sé si lo hacen, carezco de esa información pero, sabiendo que el eje de acción de su busqueda, es entender el proceso del arte, el concepto y contar una historia, no se me hace descabellado que exista un diálogo curador-artísta que mejore el resultado final. Tampoco se me hace descabellado que hagamos ciencia de esa forma, menos inhumana, más creativa, más cooperativa. Lamentablemente eLife, al declararse _inclusiva_ en este aspecto, perdió su factor de impacto, una métrica que determina año tras año que tanto impacto tuvo la revista a través de sus publicaciones, qué tanto fue citada, leída, compartida, demandada. En otras palabras, su credibilidad. Entonces, quizás ahora **eLife busque curador**, bajo el yugo performativo de sí/no y de la manera que hoy día seguimos evaluando la productividad y los avances científicos.
-La revista sigue funcionando, pero con cierta mirada juiciosa y desconfiada. Hubo mucha gente en el campo de la ciencia que aplaudió esta iniciativa pero así mismo, de desató el efecto "te apoyo, pero no te consumo" o en este caso, no publico contigo. Algunos colegas en formación me han comentado que sus publicaciones terminan en eLife como un "peor es nada", la revista de consuelo después de haber obtenido varios rechazos en otras. Un sistema que en el arte funciona, el diálogo, el acompañamiento, en la ciencia se torna popular y sin valor, como si de verdad disfrutaramos hacerlo de la manera difícil *¿Alguién sabe desde cuando empezamos a hacerlo?* 
+La revista sigue funcionando, pero con cierta mirada juiciosa y desconfiada. Hubo mucha gente en el campo de la ciencia que aplaudió esta iniciativa pero así mismo, de desató el efecto "te apoyo, pero no te consumo" o en este caso, no publico contigo. Algunos colegas en formación me han comentado que sus publicaciones terminan en eLife como un "peor es nada", la revista de consuelo después de haber obtenido varios rechazos en otras. Un sistema que en el arte funciona, el diálogo, el acompañamiento, en la ciencia se torna popular y sin valor, como si de verdad disfrutaramos hacerlo de la manera difícil *¿Alguién sabe desde cuándo empezamos a hacerlo?* 
 
 
-**El teatro y la academia**
+**Por amor al arte**
 
-Nunca nadie te avisa una vez que inicias 
+Mi primer viaje en la vida fue a Valparaíso, en el centro de Chile. Una ciudad muy bohémia y artistica. Por consecuencia ahí conocí a muchas artístas de todas nacionaliades y tipos de arte. 
 
 
 **Call backs y rechazos**
@@ -44,7 +44,6 @@ Nunca nadie te avisa una vez que inicias
 Uno de los lados de los artístas, que reconozco que envidio es que nadie los va a señalar por expresar lo que ven y sienten, nadie los trataría de menos competentes o menos profesionales por expresar. En la ciencia esa es una parte que permanece escondida. La gente suele priorizar cultivar una imagen sobria y solemne, hablar con diálogos estructurados y formalizar todo . Comparto la visión de Gaston Bachelar /filósofo de la ciencia, que proponia que la ciencia también tiene que poseer emociones, y si no contiene emociones entonces no estamos comprendidno bien la realidad. 
 
 **Libertades**
-
 
 Al final del día ambas actividades tratan sobre, el pensamiento crítico
 
