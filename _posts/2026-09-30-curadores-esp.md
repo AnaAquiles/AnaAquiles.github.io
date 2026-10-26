@@ -40,7 +40,9 @@ Los científicos, pienso que aceptamos un poco bajo una ignorancia inocente, má
 
 Hay una especie de delirio en el tomar la decisión de salirse de ese loop sin fin y buscar vivir más estable y quedarse confiando que el próximo intento, la próxima postulación te aceptará y podrás seguir produciendo ciencia, enviando tu trabajo a otra revista de investigación, y luego claro viajar a congresos, presentar tu trabajo, darte a conocer y tratar de convecer a otros a que vengan a trabajar contigo o si hiciste bien tu trabajo de hacerte notar, la gente solita se te acercará y querrá trabajar contigo, pero todos siempre entrarán en el mismo loop. Me mareo de pensarlo y siento una urgencia de prevenir a la gente que aún no lo ha notado, incluso a mi yo del pasado, cuando aún no lo sabía. 
 
-Pero qué bonito se ve tener un google scholar o un researchgate, o tener premios y publicaciones que probablemente contribuyan a menos del 1% de la relevancia científica que hoy día tomamos en cuenta. _Aquí se termina mi pesimismo en esta entrada._
+Pero qué bonito se ve tener un google scholar o un researchgate, o tener premios y publicaciones que probablemente contribuyan a menos del 1% de la relevancia científica que hoy día tomamos en cuenta.
+
+>_Aquí se termina mi pesimismo en esta entrada._
 
 
 ## Call backs y rechazos
