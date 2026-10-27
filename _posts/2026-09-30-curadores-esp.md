@@ -42,13 +42,24 @@ Los científicos, pienso que aceptamos un poco bajo una ignorancia inocente, má
 
 Hay una especie de delirio en el tomar la decisión de salirse de ese loop sin fin y buscar vivir más estable y quedarse confiando que el próximo intento, la próxima postulación te aceptará y podrás seguir produciendo ciencia, enviando tu trabajo a otra revista de investigación, y luego claro viajar a congresos, presentar tu trabajo, darte a conocer y tratar de convecer a otros a que vengan a trabajar contigo o si hiciste bien tu trabajo de hacerte notar, la gente solita se te acercará y querrá trabajar contigo, pero todos siempre entrarán en el mismo loop. Me mareo de pensarlo y siento una urgencia de prevenir a la gente que aún no lo ha notado, incluso a mi yo del pasado, cuando aún no lo sabía. 
 
-Pero ¡Qué bonito se ve tener un google scholar o un researchgate!, o tener premios y publicaciones que probablemente contribuyan a menos del 1% de la relevancia científica que hoy día tomamos en cuenta.
+Pero ¡Qué bonito se ve tener un Google Scholar o un ResearchGate!, o tener premios y publicaciones que probablemente contribuyan a menos del 1% de la relevancia científica que hoy día tomamos en cuenta.
 
 >_Aquí se termina mi pesimismo en esta entrada._
 
 
 ## Call backs y rechazos
 
+Los rechazos son parte de la cotidianidad en cualquier profesión, es verdad. Pero tengo la sensación de que los artistas (los actores, por ejemplo) y los científicos compartimos la misma fuente de frustración y, también, de resiliencia.
+
+Imaginemos a una actriz que ha estudiado teatro y drama durante años, y cuyo talento y conocimiento pasan a segundo plano porque no encajan con las expectativas del personaje: más delgada o más robusta, más alta o más pequeña, rubia, negra, hispana; con acento en inglés, o sin él... Audiciona una primera vez, luego una segunda. Recibe su _call back_, y es ahí donde el director y el productor descubren que, a pesar de un gran portafolio, a ella le falta uno de los tantos requisitos del rol. Días o semanas después llega el _rechazo_. Y la artista, tras una larga espiral de cuestionamientos, llega por fin a la resiliencia: reconoce que ese no iba a ser su papel, o quizás que esa película nunca iba a llegar a las pantallas.
+
+Creo que en la ciencia ocurre algo parecido, solo que aquí casi no hablamos de talento, sino de qué tan inteligente y astuto eres. Aun así, el golpe al ego es el mismo, tal como imagino que lo es en el mundo artístico.
+
+En los reclutamientos, a veces todo es muy claro; otras, todo es tan difuso que es fácil no recibir nunca una respuesta final después de un _call back_. De una retroalimentación, ni hablar: pocas veces te tocará conocerla. Y aun así, tras una serie de preguntas existenciales, la resiliencia llega y aceptamos que nos gusta tanto esto, esta exposición y evaluación continuas, que con el tiempo deja de ser tan difícil encontrar tu centro, tu base, para seguir en el camino. Es, evidentemente, un deporte extremo que solo una psique flexible puede soportar. Muchas veces he hablado sobre los rasgos de personalidad que atrae el mundo científico, y sí, todos tenemos un poco de rareza, un poco de ansiedad y matices de obsesión que a veces funcionan como combustible para el motor y nos mantienen en marcha.
+
+En mi caso, cada vez que siento que se me acabó la gasolina, vuelvo a escuchar [la charla de Karla Souza](https://youtu.be/kz6GON4ykNo?si=CHk-vVONyZ1jETOC), donde, entre otros relatos, subraya la importancia de _recordar por qué sigues haciendo lo que haces
+
+>_¿Cuál es la gasolina de tu motor?_
 
 ## Abstracción de la realidad
 
