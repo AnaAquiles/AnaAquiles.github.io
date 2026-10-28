@@ -66,7 +66,7 @@ En mi caso, cada vez que siento que se me acabó la gasolina, vuelvo a escuchar 
 
 ## Lo privado y lo público
 
-Uno de los lados de los artístas, que reconozco que envidio es que nadie los va a señalar por expresar lo que ven y sienten, nadie los trataría de menos competentes o menos profesionales por expresar. En la ciencia esa es una parte que permanece escondida, inexistente. La gente suele priorizar cultivar una imagen sobria y solemne, hablar con diálogos estructurados y formalizar todo . Comparto la visión de Gaston Bachelar /filósofo de la ciencia, que proponia que la ciencia también tiene que poseer emociones, y si no contiene emociones entonces no estamos comprendidno bien la realidad. 
+Uno de los lados de los artístas, que reconozco que envidio es que nadie los va a señalar por expresar lo que ven y sienten, nadie los trataría de menos competentes o menos profesionales por expresar. En la ciencia esa es una parte que permanece escondida, inexistente. La gente suele priorizar cultivar una imagen sobria y solemne, hablar con diálogos estructurados y formalizar todo . Comparto la visión de Gaston Bachelar /filósofo de la ciencia, que proponía que la ciencia también tiene que poseer emociones, y si no contiene emociones entonces no estamos comprendidno bien la realidad. 
 
 ## Libertades
 
