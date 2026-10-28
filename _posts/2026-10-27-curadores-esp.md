@@ -71,9 +71,9 @@ Bachelard, en su poética del espacio, habla con diferentes analogías sobre la 
 
 >... comme l’immense n’est pas un objet, une phénoménologie de l’immense nous renverrait sans circuit à notre conscience imaginante.[...] Il apparaît alors clairement que les œuvres d’art sont les *sous-produits* de cet existentialisme de l’être imaginant. Dans cette voie de la rêverie d’immensité, le véritable *produit*, c’est la conscience d’agrandissement. Nous nous sentons promus à la dignité de l’être admirant. - *Capítulo 8, p.p 210*
 
-No siendo un objeto, la inmesidad nos remite a nuestra conciencia imaginante, en donde en este caso las obras de arte, los artículos científicos, los libros escritos, etc. serían los productos del existencialismo de un ser que imagina. Adentrarnos el desvarío de esta inmensidad, daría como resultado al verdadero _producto_, la conciencia de engrandecimiento. _Nos sentimos impulsados a la dignidad del ser que admira lo que le rodea._
+No siendo un objeto, la inmesidad nos remite a nuestra conciencia imaginante, en donde en este caso las obras de arte, los artículos científicos, los libros escritos, etc. serían los productos del existencialismo de un ser que imagina. Adentrarnos al desvarío de esta inmensidad, daría como resultado el verdadero _producto_: la conciencia de engrandecimiento. _Nos sentimos impulsados a la dignidad del ser que admira lo que le rodea._
 
-Además de aventarme un salvavidas a mi existencialismo ruín, Bachelard rescata también, recordando que entonces _abrimos de cierta manera el mundo en una superación del mundo mismo visto tal como es. Aún siendo conscientes de uno mismo, por la acción de una brutal dialéctica y expresión creativa, tomamos conciencia de la grandeza_. Somos entonces devueltos a una actividad natural de nuestra existencia, _OBSERVAR, ADMIRAR, ABSTRAER._
+Además de aventarme un salvavidas a mi existencialismo ruín, Bachelard ofrece una última cosa, recordando que entonces _abrimos de cierta manera el mundo en una superación del mundo mismo visto tal como es. Aún siendo seres conscientes, por la acción de una brutal dialéctica y expresión creativa, tomamos conciencia de la grandeza en la que existimos_. Somos entonces devueltos a una actividad natural de nuestra existencia, _OBSERVAR, ADMIRAR, ABSTRAER._
 
 ### Gracias por leer ;)
 
