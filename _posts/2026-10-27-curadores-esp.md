@@ -71,7 +71,9 @@ Bachelard, en su poética del espacio, habla con diferentes analogías sobre la 
 
 >*... comme l’immense n’est pas un objet, une phénoménologie de l’immense nous renverrait sans circuit à notre conscience imaginante.[...] Il apparaît alors clairement que les œuvres d’art sont les _sous-produits_ de cet existentialisme de l’être imaginant. Dans cette voie de la rêverie d’immensité, le véritable _produit_, c’est la conscience d’agrandissement. Nous nous sentons promus à la dignité de l’être admirant. - Capítulo 8, p.p 210*
 
-No siendo un objeto, la inmesidad nos remite a nuestra conciencia imaginante, en donde en este caso las obras de arte, los artículos científicos, los libros escritos, etc. serían los productos del existencialismo de un ser que imagina. Siguiendo el camino de la ensoñación de inmensidad, el verdadero _producto_ sería la conciencia de engrandecimiento. _Nos sentimos impulsados a la dignidad del ser que admira lo que le rodea_
+No siendo un objeto, la inmesidad nos remite a nuestra conciencia imaginante, en donde en este caso las obras de arte, los artículos científicos, los libros escritos, etc. serían los productos del existencialismo de un ser que imagina. Adentrarnos el desvarío de la inmensidad, el verdadero _producto_ sería la conciencia de engrandecimiento. _Nos sentimos impulsados a la dignidad del ser que admira lo que le rodea._
+
+Además de aventarme un salvavidas a mi existencialismo ruín, Bachelard rescata también, recordando que entonces _abrimos de cierta manera el mundo en una superación del mundo mismo visto tal como es. Aún siendo conscientes de uno mismo, por la acción misma de una brutal dialéctica creativa, tomamos conciencia de la grandeza_. Somos entonces devueltos a una actividad natural de nuestra existencia, _observar, admirar, abtraer._
 
 ## Lo privado y lo público
 
